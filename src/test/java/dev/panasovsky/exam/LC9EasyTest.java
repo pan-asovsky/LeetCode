@@ -4,9 +4,9 @@ import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.Assertions;
 
 
-public class PalindromeTest {
+public class LC9EasyTest {
 
-    private final Palindrome pal = new Palindrome();
+    private final LC9Easy pal = new LC9Easy();
 
     @Test
     public void firstPalindrome() {

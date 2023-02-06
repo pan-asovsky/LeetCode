@@ -3,9 +3,9 @@ package dev.panasovsky.exam;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class RomanToIntTest {
+public class LC13EasyTest {
 
-    private final RomanToInt roman = new RomanToInt();
+    private final LC13Easy roman = new LC13Easy();
 
     @Test
     public void romanToIntTest() {

@@ -4,9 +4,9 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
 
-public class TwoSumTest {
+public class LC1EasyTest {
 
-    private final TwoSum sum = new TwoSum();
+    private final LC1Easy sum = new LC1Easy();
 
     @Test
     public void twoSum() {

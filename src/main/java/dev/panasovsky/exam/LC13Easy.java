@@ -1,7 +1,10 @@
 package dev.panasovsky.exam;
 
 
-public class RomanToInt {
+/**
+ * {@see <a href="https://leetcode.com/problems/roman-to-integer/">Task at LeetCode</a>}
+ */
+public class LC13Easy {
 
     public int romanToArabicInteger(final String romanInteger) {
 

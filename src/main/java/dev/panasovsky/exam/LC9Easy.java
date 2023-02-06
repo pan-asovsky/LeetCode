@@ -1,7 +1,10 @@
 package dev.panasovsky.exam;
 
 
-public class Palindrome {
+/**
+ * {@see <a href="https://leetcode.com/problems/palindrome-number/">Task at LeetCode</a>}
+ */
+public class LC9Easy {
 
     public boolean isPalindrome(int x) {
 
@@ -12,7 +15,6 @@ public class Palindrome {
             sum = (sum * 10) + (x % 10);
             x = x / 10;
         }
-
         return (temp == sum);
     }
 
